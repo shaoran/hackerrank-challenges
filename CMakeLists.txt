@@ -1,7 +1,7 @@
 
 project(hackerrank-solutions C)
 
-cmake_minimum_required(VERSION 3.9)
+cmake_minimum_required(VERSION 2.6)
 
 #set(RUNTIME_OUTPUT_DIRECTORY ${CMAKE_BUILD_DIR})
 
